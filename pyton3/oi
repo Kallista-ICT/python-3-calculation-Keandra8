@@ -1,0 +1,9 @@
+# comment here
+distance = float(input("Enter the distance (in meter): "))
+time = float(input("Enter the time (in second): "))
+
+# comment here
+velocity=distance/time
+
+# comment here 
+print(f"the velocity is {velocity:.2f}m/s.")
